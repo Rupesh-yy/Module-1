@@ -1,31 +1,30 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 2- Data Types – Reading and Printing Integer and Float in Python
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to read an integer and a float and print them.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+1. Read Integer.  
+2. Read Float.  
+3. Print Integer.  
+4. Print Float.
 
 ## PROGRAM
 ```python
 # Reg.No-212222060204
-# Name-Rupesh J
+# Name-RUPESH J
 # Write your code here
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1, end="")
-print(num2, end="")
-print(num3)
-
-
+a=int(input())
+b=float(input())
+print(a)
+print(b)
 ```
 ## OUTPUT
-<img width="1185" height="207" alt="image" src="https://github.com/user-attachments/assets/b2d68fc1-df27-4851-a37e-abb203fdd58c" />
+
+![LAB1 DAY2 op](https://github.com/user-attachments/assets/8cfca096-ea01-4de7-981a-3ee5d4e43412)
+
 
 ## RESULT
+
+Thus, the implementation of python programming for numeric base conversion verified successfully.
