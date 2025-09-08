@@ -32,4 +32,4 @@ print(string_double_quotes)
 <img width="1200" height="440" alt="image" src="https://github.com/user-attachments/assets/39a89ce7-98e2-4335-87d0-633785ff6815" />
 
 ## RESULT
-
+Thus, the implementation of Python programming to print the string in multiple lines using triple quotes verified successfully.
