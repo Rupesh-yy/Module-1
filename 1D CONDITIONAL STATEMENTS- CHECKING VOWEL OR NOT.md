@@ -1,4 +1,4 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Checking 20th Century or not
 
 ## AIM  
 To write a Python program to check whether the entered year is 20th century or not using if..else statement.
